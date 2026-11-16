@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-cover-2026-11-16.jpg" width="100%" alt="AI 产品开发与上线手册项目封面" />
+</p>
+
 <div align="center">
 
 <picture>
@@ -7,9 +11,9 @@
 
 # AI 产品从想法到上线 · 开发工具包
 
-**不懂代码，也能做出并上线一个 AI 产品**
+**AI 产品开发与上线手册、模板和验收脚本**
 
-你只管想清楚要做什么；写代码、跑测试、做界面、部署上线，交给编码 AI。
+一套面向非技术产品经理的中文手册、模板和验收脚本，指导使用 AI 编码工具完成产品开发、测试和部署上线。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 ![面向人群](https://img.shields.io/badge/面向-非技术产品经理-green.svg)
